@@ -4,6 +4,8 @@ Welcome! This repository is designed to support your continued growth as a progr
 
 We strongly encourage you to explore each topic by building small projects of your own. The goal is to deepen your learning so that working with real codebases feels less overwhelming and more intuitive.
 
+**Note:** Most projects here go high level so additional research will be needed on your end.
+
 ## Recommended Project Order
 
 1. **production_pipeline**  
