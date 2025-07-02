@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 .DS_Store
+speed/my_tricky_data.csv
