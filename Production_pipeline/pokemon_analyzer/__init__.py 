@@ -1,0 +1,5 @@
+# This file can be empty.
+# Its presence makes the directory a Python package,
+# allowing for imports between the .py files.
+
+print("Pokemon analysis package initialized.")

@@ -1,0 +1,152 @@
+id,name,base_experience,type1,type2,hp,attack,defense,special-attack,special-defense,speed,sprite_url,weight_kg,height_m,combat_total,bmi,speed_category
+1,bulbasaur,64,grass,poison,45,49,49,65,65,45,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png,6.9,0.7,318,14.081632653061227,Slow
+2,ivysaur,142,grass,poison,60,62,63,80,80,60,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png,13.0,1.0,405,13.0,Average
+3,venusaur,236,grass,poison,80,82,83,100,100,80,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png,100.0,2.0,525,25.0,Fast
+4,charmander,62,fire,,39,52,43,60,50,65,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png,8.5,0.6,309,23.61111111111111,Average
+5,charmeleon,142,fire,,58,64,58,80,65,80,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png,19.0,1.1,405,15.702479338842974,Fast
+6,charizard,240,fire,flying,78,84,78,109,85,100,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png,90.5,1.7,534,31.314878892733567,Very Fast
+7,squirtle,63,water,,44,48,65,50,64,43,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png,9.0,0.5,314,36.0,Slow
+8,wartortle,142,water,,59,63,80,65,80,58,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png,22.5,1.0,405,22.5,Average
+9,blastoise,239,water,,79,83,100,85,105,78,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png,85.5,1.6,530,33.39843749999999,Average
+10,caterpie,39,bug,,45,30,35,20,20,45,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png,2.9,0.3,195,32.22222222222222,Slow
+11,metapod,72,bug,,50,20,55,25,25,30,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png,9.9,0.7,205,20.204081632653065,Slow
+12,butterfree,178,bug,flying,60,45,50,90,80,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png,32.0,1.1,395,26.446280991735534,Average
+13,weedle,39,bug,poison,40,35,30,20,20,50,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png,3.2,0.3,195,35.55555555555556,Average
+14,kakuna,72,bug,poison,45,25,50,25,25,35,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png,10.0,0.6,205,27.77777777777778,Slow
+15,beedrill,178,bug,poison,65,90,40,45,80,75,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png,29.5,1.0,395,29.5,Average
+16,pidgey,50,normal,flying,40,45,40,35,35,56,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png,1.8,0.3,251,20.0,Average
+17,pidgeotto,122,normal,flying,63,60,55,50,50,71,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png,30.0,1.1,349,24.793388429752063,Average
+18,pidgeot,216,normal,flying,83,80,75,70,70,101,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png,39.5,1.5,479,17.555555555555557,Very Fast
+19,rattata,51,normal,,30,56,35,25,35,72,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png,3.5,0.3,253,38.88888888888889,Average
+20,raticate,145,normal,,55,81,60,50,70,97,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png,18.5,0.7,413,37.75510204081633,Fast
+21,spearow,52,normal,flying,40,60,30,31,31,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png,2.0,0.3,262,22.22222222222222,Average
+22,fearow,155,normal,flying,65,90,65,61,61,100,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png,38.0,1.2,442,26.38888888888889,Very Fast
+23,ekans,58,poison,,35,60,44,40,54,55,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png,6.9,2.0,288,1.725,Average
+24,arbok,157,poison,,60,95,69,65,79,80,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png,65.0,3.5,448,5.3061224489795915,Fast
+25,pikachu,112,electric,,35,55,40,50,50,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png,6.0,0.4,320,37.49999999999999,Fast
+26,raichu,218,electric,,60,90,55,90,80,110,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png,30.0,0.8,485,46.87499999999999,Very Fast
+27,sandshrew,60,ground,,50,75,85,20,30,40,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png,12.0,0.6,300,33.333333333333336,Slow
+28,sandslash,158,ground,,75,100,110,45,55,65,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png,29.5,1.0,450,29.5,Average
+29,nidoran-f,55,poison,,55,47,52,40,40,41,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png,7.0,0.4,275,43.74999999999999,Slow
+30,nidorina,128,poison,,70,62,67,55,55,56,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png,20.0,0.8,365,31.249999999999993,Average
+31,nidoqueen,227,poison,ground,90,92,87,75,85,76,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png,60.0,1.3,505,35.50295857988165,Average
+32,nidoran-m,55,poison,,46,57,40,40,40,50,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png,9.0,0.5,273,36.0,Average
+33,nidorino,128,poison,,61,72,57,55,55,65,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png,19.5,0.9,365,24.074074074074073,Average
+34,nidoking,227,poison,ground,81,102,77,85,75,85,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png,62.0,1.4,505,31.632653061224495,Fast
+35,clefairy,113,fairy,,70,45,48,60,65,35,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png,7.5,0.6,323,20.833333333333336,Slow
+36,clefable,217,fairy,,95,70,73,95,90,60,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png,40.0,1.3,483,23.668639053254434,Average
+37,vulpix,60,fire,,38,41,40,50,65,65,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png,9.9,0.6,299,27.500000000000004,Average
+38,ninetales,177,fire,,73,76,75,81,100,100,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png,19.9,1.1,505,16.446280991735534,Very Fast
+39,jigglypuff,95,normal,fairy,115,45,20,45,25,20,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png,5.5,0.5,270,22.0,Slow
+40,wigglytuff,196,normal,fairy,140,70,45,85,50,45,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png,12.0,1.0,435,12.0,Slow
+41,zubat,49,poison,flying,40,45,35,30,40,55,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png,7.5,0.8,245,11.718749999999998,Average
+42,golbat,159,poison,flying,75,80,70,65,75,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png,55.0,1.6,455,21.484374999999996,Fast
+43,oddish,64,grass,poison,45,50,55,75,65,30,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png,5.4,0.5,320,21.6,Slow
+44,gloom,138,grass,poison,60,65,70,85,75,40,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png,8.6,0.8,395,13.437499999999996,Slow
+45,vileplume,221,grass,poison,75,80,85,110,90,50,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png,18.6,1.2,490,12.916666666666668,Average
+46,paras,57,bug,grass,35,70,55,45,55,25,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png,5.4,0.3,285,60.00000000000001,Slow
+47,parasect,142,bug,grass,60,95,80,60,80,30,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png,29.5,1.0,405,29.5,Slow
+48,venonat,61,bug,poison,60,55,50,40,55,45,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png,30.0,1.0,305,30.0,Slow
+49,venomoth,158,bug,poison,70,65,60,90,75,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png,12.5,1.5,450,5.555555555555555,Fast
+50,diglett,53,ground,,10,55,25,35,45,95,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png,0.8,0.2,265,19.999999999999996,Fast
+51,dugtrio,149,ground,,35,100,50,50,70,120,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png,33.3,0.7,425,67.9591836734694,Very Fast
+52,meowth,58,normal,,40,45,35,40,40,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png,4.2,0.4,290,26.249999999999996,Fast
+53,persian,154,normal,,65,70,60,65,65,115,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png,32.0,1.0,440,32.0,Very Fast
+54,psyduck,64,water,,50,52,48,65,50,55,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png,19.6,0.8,320,30.624999999999996,Average
+55,golduck,175,water,,80,82,78,95,80,85,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png,76.6,1.7,500,26.505190311418687,Fast
+56,mankey,61,fighting,,40,80,35,35,45,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png,28.0,0.5,305,112.0,Average
+57,primeape,159,fighting,,65,105,60,60,70,95,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png,32.0,1.0,455,32.0,Fast
+58,growlithe,70,fire,,55,70,45,70,50,60,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png,19.0,0.7,350,38.77551020408164,Average
+59,arcanine,194,fire,,90,110,80,100,80,95,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png,155.0,1.9,555,42.93628808864266,Fast
+60,poliwag,60,water,,40,50,40,40,40,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png,12.4,0.6,300,34.44444444444445,Fast
+61,poliwhirl,135,water,,65,65,65,50,50,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png,20.0,1.0,385,20.0,Fast
+62,poliwrath,230,water,fighting,90,95,95,70,90,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png,54.0,1.3,510,31.95266272189349,Average
+63,abra,62,psychic,,25,20,15,105,55,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png,19.5,0.9,310,24.074074074074073,Fast
+64,kadabra,140,psychic,,40,35,30,120,70,105,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png,56.5,1.3,400,33.43195266272189,Very Fast
+65,alakazam,225,psychic,,55,50,45,135,95,120,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png,48.0,1.5,500,21.333333333333332,Very Fast
+66,machop,61,fighting,,70,80,50,35,35,35,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png,19.5,0.8,305,30.468749999999993,Slow
+67,machoke,142,fighting,,80,100,70,50,60,45,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png,70.5,1.5,405,31.333333333333332,Slow
+68,machamp,227,fighting,,90,130,80,65,85,55,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png,130.0,1.6,505,50.78124999999999,Average
+69,bellsprout,60,grass,poison,50,75,35,70,30,40,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png,4.0,0.7,300,8.163265306122451,Slow
+70,weepinbell,137,grass,poison,65,90,50,85,45,55,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png,6.4,1.0,390,6.4,Average
+71,victreebel,221,grass,poison,80,105,65,100,70,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png,15.5,1.7,490,5.363321799307959,Average
+72,tentacool,67,water,poison,40,40,35,50,100,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png,45.5,0.9,335,56.172839506172835,Average
+73,tentacruel,180,water,poison,80,70,65,80,120,100,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png,55.0,1.6,515,21.484374999999996,Very Fast
+74,geodude,60,rock,ground,40,80,100,30,30,20,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png,20.0,0.4,300,124.99999999999997,Slow
+75,graveler,137,rock,ground,55,95,115,45,45,35,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png,105.0,1.0,390,105.0,Slow
+76,golem,223,rock,ground,80,120,130,55,65,45,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png,300.0,1.4,495,153.06122448979593,Slow
+77,ponyta,82,fire,,50,85,55,65,65,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png,30.0,1.0,410,30.0,Fast
+78,rapidash,175,fire,,65,100,70,80,80,105,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png,95.0,1.7,500,32.871972318339104,Very Fast
+79,slowpoke,63,water,psychic,90,65,65,40,40,15,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png,36.0,1.2,315,25.0,Slow
+80,slowbro,172,water,psychic,95,75,110,100,80,30,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png,78.5,1.6,490,30.664062499999993,Slow
+81,magnemite,65,electric,steel,25,35,70,95,55,45,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png,6.0,0.3,325,66.66666666666667,Slow
+82,magneton,163,electric,steel,50,60,95,120,70,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png,60.0,1.0,465,60.0,Average
+83,farfetchd,132,normal,flying,52,90,55,58,62,60,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png,15.0,0.8,377,23.437499999999996,Average
+84,doduo,62,normal,flying,35,85,45,35,35,75,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png,39.2,1.4,310,20.000000000000004,Average
+85,dodrio,165,normal,flying,60,110,70,60,60,110,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png,85.2,1.8,470,26.296296296296294,Very Fast
+86,seel,65,water,,65,45,55,45,70,45,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png,90.0,1.1,325,74.38016528925618,Slow
+87,dewgong,166,water,ice,90,70,80,70,95,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png,120.0,1.7,475,41.52249134948097,Average
+88,grimer,65,poison,,80,80,50,40,50,25,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png,30.0,0.9,325,37.03703703703704,Slow
+89,muk,175,poison,,105,105,75,65,100,50,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png,30.0,1.2,500,20.833333333333336,Average
+90,shellder,61,water,,30,65,100,45,25,40,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png,4.0,0.3,305,44.44444444444444,Slow
+91,cloyster,184,water,ice,50,95,180,85,45,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png,132.5,1.5,525,58.888888888888886,Average
+92,gastly,62,ghost,poison,30,35,30,100,35,80,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png,0.1,1.3,310,0.05917159763313609,Fast
+93,haunter,142,ghost,poison,45,50,45,115,55,95,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png,0.1,1.6,405,0.03906249999999999,Fast
+94,gengar,225,ghost,poison,60,65,60,130,75,110,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png,40.5,1.5,500,18.0,Very Fast
+95,onix,77,rock,ground,35,45,160,30,45,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png,210.0,8.8,385,2.711776859504132,Average
+96,drowzee,66,psychic,,60,48,45,43,90,42,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png,32.4,1.0,328,32.4,Slow
+97,hypno,169,psychic,,85,73,70,73,115,67,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png,75.6,1.6,483,29.531249999999993,Average
+98,krabby,65,water,,30,105,90,25,25,50,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png,6.5,0.4,325,40.62499999999999,Average
+99,kingler,166,water,,55,130,115,50,50,75,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png,60.0,1.3,475,35.50295857988165,Average
+100,voltorb,66,electric,,40,30,50,55,55,100,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png,10.4,0.5,330,41.6,Very Fast
+101,electrode,172,electric,,60,50,70,80,80,150,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png,66.6,1.2,490,46.25,Very Fast
+102,exeggcute,65,grass,psychic,60,40,80,60,45,40,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png,2.5,0.4,325,15.624999999999996,Slow
+103,exeggutor,186,grass,psychic,95,95,85,125,75,55,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png,120.0,2.0,530,30.0,Average
+104,cubone,64,ground,,50,50,95,40,50,35,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png,6.5,0.4,320,40.62499999999999,Slow
+105,marowak,149,ground,,60,80,110,50,80,45,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png,45.0,1.0,425,45.0,Slow
+106,hitmonlee,159,fighting,,50,120,53,35,110,87,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png,49.8,1.5,455,22.133333333333333,Fast
+107,hitmonchan,159,fighting,,50,105,79,35,110,76,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png,50.2,1.4,455,25.61224489795919,Average
+108,lickitung,77,normal,,90,55,75,60,75,30,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png,65.5,1.2,385,45.486111111111114,Slow
+109,koffing,68,poison,,40,65,95,60,45,35,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png,1.0,0.6,340,2.7777777777777777,Slow
+110,weezing,172,poison,,65,90,120,85,70,60,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png,9.5,1.2,490,6.597222222222222,Average
+111,rhyhorn,69,ground,rock,80,85,95,30,30,25,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png,115.0,1.0,345,115.0,Slow
+112,rhydon,170,ground,rock,105,130,120,45,45,40,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png,120.0,1.9,485,33.2409972299169,Slow
+113,chansey,395,normal,,250,5,5,35,105,50,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png,34.6,1.1,450,28.595041322314046,Average
+114,tangela,87,grass,,65,55,115,100,40,60,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png,35.0,1.0,435,35.0,Average
+115,kangaskhan,172,normal,,105,95,80,40,80,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png,80.0,2.2,490,16.52892561983471,Fast
+116,horsea,59,water,,30,40,70,70,25,60,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png,8.0,0.4,295,49.99999999999999,Average
+117,seadra,154,water,,55,65,95,95,45,85,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png,25.0,1.2,440,17.36111111111111,Fast
+118,goldeen,64,water,,45,67,60,35,50,63,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png,15.0,0.6,320,41.66666666666667,Average
+119,seaking,158,water,,80,92,65,65,80,68,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png,39.0,1.3,450,23.076923076923073,Average
+120,staryu,68,water,,30,45,55,70,55,85,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png,34.5,0.8,340,53.90624999999999,Fast
+121,starmie,182,water,psychic,60,75,85,100,85,115,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png,80.0,1.1,520,66.11570247933884,Very Fast
+122,mr-mime,161,psychic,fairy,40,45,65,100,120,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png,54.5,1.3,460,32.24852071005917,Fast
+123,scyther,100,bug,flying,70,110,80,55,80,105,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png,56.0,1.5,500,24.88888888888889,Very Fast
+124,jynx,159,ice,psychic,65,50,35,115,95,95,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png,40.6,1.4,455,20.71428571428572,Fast
+125,electabuzz,172,electric,,65,83,57,95,85,105,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png,30.0,1.1,490,24.793388429752063,Very Fast
+126,magmar,173,fire,,65,95,57,100,85,93,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png,44.5,1.3,495,26.33136094674556,Fast
+127,pinsir,175,bug,,65,125,100,55,70,85,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png,55.0,1.5,500,24.444444444444443,Fast
+128,tauros,172,normal,,75,100,95,40,70,110,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png,88.4,1.4,490,45.10204081632654,Very Fast
+129,magikarp,40,water,,20,10,55,15,20,80,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png,10.0,0.9,200,12.345679012345679,Fast
+130,gyarados,189,water,flying,95,125,79,60,100,81,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png,235.0,6.5,540,5.562130177514793,Fast
+131,lapras,187,water,ice,130,85,80,85,95,60,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png,220.0,2.5,535,35.2,Average
+132,ditto,101,normal,,48,48,48,48,48,48,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png,4.0,0.3,288,44.44444444444444,Slow
+133,eevee,65,normal,,55,55,50,45,65,55,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png,6.5,0.3,325,72.22222222222223,Average
+134,vaporeon,184,water,,130,65,60,110,95,65,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png,29.0,1.0,525,29.0,Average
+135,jolteon,184,electric,,65,65,60,110,95,130,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png,24.5,0.8,525,38.28124999999999,Very Fast
+136,flareon,184,fire,,65,130,60,95,110,65,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png,25.0,0.9,525,30.864197530864196,Average
+137,porygon,79,normal,,65,60,70,85,75,40,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png,36.5,0.8,395,57.031249999999986,Slow
+138,omanyte,71,rock,water,35,40,100,90,55,35,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png,7.5,0.4,355,46.87499999999999,Slow
+139,omastar,173,rock,water,70,60,125,115,70,55,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png,35.0,1.0,495,35.0,Average
+140,kabuto,71,rock,water,30,80,90,55,45,55,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png,11.5,0.5,355,46.0,Average
+141,kabutops,173,rock,water,60,115,105,65,70,80,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png,40.5,1.3,495,23.964497041420117,Fast
+142,aerodactyl,180,rock,flying,80,105,65,60,75,130,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png,59.0,1.8,515,18.209876543209877,Very Fast
+143,snorlax,189,normal,,160,110,65,65,110,30,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png,460.0,2.1,540,104.30839002267574,Slow
+144,articuno,261,ice,flying,90,85,100,95,125,85,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png,55.4,1.7,580,19.169550173010382,Fast
+145,zapdos,261,electric,flying,90,90,85,125,90,100,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png,52.6,1.6,580,20.546874999999996,Very Fast
+146,moltres,261,fire,flying,90,100,90,125,85,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png,60.0,2.0,580,15.0,Fast
+147,dratini,60,dragon,,41,64,45,50,50,50,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png,3.3,1.8,300,1.0185185185185184,Average
+148,dragonair,147,dragon,,61,84,65,70,70,70,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png,16.5,4.0,420,1.03125,Average
+149,dragonite,270,dragon,flying,91,134,95,100,100,80,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png,210.0,2.2,600,43.38842975206611,Fast
+150,mewtwo,306,psychic,,106,110,90,154,90,130,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png,122.0,2.0,680,30.5,Very Fast
+151,mew,270,psychic,,100,100,100,100,100,100,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png,4.0,0.4,600,24.999999999999996,Very Fast
