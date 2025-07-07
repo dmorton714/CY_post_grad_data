@@ -23,11 +23,11 @@ These examples are not about micro-optimizations—but rather about building goo
 - Understanding performance trade-offs helps you make better design decisions.
 - Tools like `%%timeit`, `memory_usage`, and type inspection are essential for writing performant data science code.
 
-
-
-
-
-
+## Other files 
+- `data_maker.py` - used to make sample data to play with 
+- `plot_tool.py` - used to make plots in the notebook.
+- `lil_data.csv` - sample data for files
+- `my_tricky_data.csv` - sample data for files
 
 # Pandas Data Types Cheat Sheet
 

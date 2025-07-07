@@ -8,6 +8,9 @@ We strongly encourage you to explore each topic by building small projects of yo
 
 ## Recommended Project Order
 
+0. **MarkDown Notes**
+   This is a great cheat sheet to set your projects apart from the competition! Having a good looking notebook speaks volumes to your work.
+
 1. **production_pipeline**  
    This project uses the Pokémon API to demonstrate how a data science project can evolve from a simple notebook into a structured set of Python scripts. It introduces concepts like modular code, file organization, and reproducibility.
 
@@ -16,6 +19,9 @@ We strongly encourage you to explore each topic by building small projects of yo
 
 3. **tests**
   This project covers writing test in python and talks about Test Driven Development. This uses classes so its important to work on them first. 
+
+4. **speed**
+   In this section, we explore strategies for writing more efficient, readable, and scalable Python code. By leveraging tools like `%%timeit`, we’ll measure and compare execution times directly within Jupyter notebooks to gain insight into how different approaches affect performance.
 
 
 ## Always Utilize a Virtual Environment
