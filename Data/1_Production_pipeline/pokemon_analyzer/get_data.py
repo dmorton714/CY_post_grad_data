@@ -54,7 +54,7 @@ def get_pokemon_data(num_pokemon=151):
     setup_logging()
     logging.info(f"Starting API fetch for {num_pokemon} Pokémon.")
 
-    print(f"Fetching data... (See 'logs/data_fetch.log' for detailed logs)")  # noqa:ignore
+    print("Fetching data... (See 'logs/data_fetch.log' for detailed logs)")  # noqa:ignore
     base_url = "https://pokeapi.co/api/v2/pokemon"
     pokemon_data = []
 
