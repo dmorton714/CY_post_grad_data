@@ -24,6 +24,8 @@ We strongly encourage you to explore each topic by building small projects of yo
    In this section, we explore strategies for writing more efficient, readable, and scalable Python code. By leveraging tools like `%%timeit`, we’ll measure and compare execution times directly within Jupyter notebooks to gain insight into how different approaches affect performance.
 
 
+## GitHub Actions
+
 ## Always Utilize a Virtual Environment
 
 
