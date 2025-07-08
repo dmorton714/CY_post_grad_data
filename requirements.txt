@@ -12,7 +12,7 @@ fonttools==4.58.4
 idna==3.10
 iniconfig==2.1.0
 ipykernel==6.29.5
-ipython==9.4.0
+ipython==8.37.0
 ipython_pygments_lexers==1.1.1
 jedi==0.19.2
 jupyter_client==8.6.3
