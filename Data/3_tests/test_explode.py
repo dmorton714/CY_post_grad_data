@@ -3,7 +3,7 @@ import pandas as pd
 from pandas.testing import assert_frame_equal
 
 
-def explode_grades_list(df: pd.DataFrame) -> pd.DataFrame: # noqa: F811
+def explode_grades_list(df: pd.DataFrame) -> pd.DataFrame:  # noqa: F811
     if 'Grades' not in df.columns:
         raise KeyError("Input DataFrame must contain a 'Grades' column.")
     exploded = df.explode('Grades').rename(columns={'Grades': 'Grade'})
@@ -31,7 +31,7 @@ def test_basic_explosion_pytest(sample_dataframe):
     }).reset_index(drop=True)
     expected_df["Grade"] = expected_df["Grade"].astype(int)
 
-    assert_frame_equal(result_df, expected_df) # noqa: F821
+    assert_frame_equal(result_df, expected_df)  # noqa: F821
 
 
 def test_with_empty_list_pytest():
@@ -48,10 +48,11 @@ def test_with_empty_list_pytest():
     }).reset_index(drop=True)
     expected_df["Grade"] = expected_df["Grade"].astype(int)
 
-    assert_frame_equal(result_df, expected_df) # noqa: F821
+    assert_frame_equal(result_df, expected_df)  # noqa: F821
 
 
 def test_missing_grades_column_raises_error_pytest():
     df = pd.DataFrame({'Student': ['David']})
-    with pytest.raises(KeyError, match="Input DataFrame must contain a 'Grades' column."):
+    with pytest.raises(KeyError,
+                       match="Input DataFrame must contain a 'Grades' column."):  # noqa: E501
         explode_grades_list(df)
