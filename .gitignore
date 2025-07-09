@@ -209,5 +209,5 @@ __marimo__/
 .DS_Store
 
 # Custom data file
-Data/4_speed/my_tricky_data.csv
-Data/1_Production_pipeline/plots
+data_projects/4_speed/my_tricky_data.csv
+data_projects/1_Production_pipeline/plots
