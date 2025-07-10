@@ -23,8 +23,11 @@ We strongly encourage you to explore each topic by building small projects of yo
 4. **speed**
    In this section, we explore strategies for writing more efficient, readable, and scalable Python code. By leveraging tools like `%%timeit`, we’ll measure and compare execution times directly within Jupyter notebooks to gain insight into how different approaches affect performance.
 
+5. **GitHub Actions**
+   This covers getting started with GitHub Actions. Covers what they are and how they work. 
 
-## GitHub Actions
+6. **NYC Taxi Project**
+   Small project putting together many of the things we covered in the various other projects. Show taking simple code from a notebook to making it production ready.
 
 ## Always Utilize a Virtual Environment
 
