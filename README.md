@@ -29,6 +29,16 @@ We strongly encourage you to explore each topic by building small projects of yo
 6. **NYC Taxi Project**
    Small project putting together many of the things we covered in the various other projects. Show taking simple code from a notebook to making it production ready.
 
+
+# Break Fix Projects 
+
+The Break-Fix projects are intentionally open-ended and sometimes loosely structured. You’ll be given a clear question or problem to solve, but beyond that, instructions may be minimal or vague. Some projects will introduce technologies we won’t cover directly and where not in the classes, but you’ll always have enough information to get started.
+
+Solutions will be provided for the core problems, but some projects may include optional bonus tasks without answers or hints. This is designed to mimic real-world scenarios where you’re handed a task and expected to figure out how to deliver results. Sometimes you’ll have guidance or someone to ask for help—other times you’ll need to find your own way forward.
+
+This process can feel frustrating or overwhelming at times, that’s completely normal and part of the learning experience. Stick with it, and by the time you’re on the job, you’ll feel much more confident tackling similar challenges.
+
+
 ## Always Utilize a Virtual Environment
 
 
